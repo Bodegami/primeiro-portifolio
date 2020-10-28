@@ -72,15 +72,22 @@ h1 span {
 
 .small-column li {
     margin-top: 32px;
+    /* width: 500px; */
+    
 }
 
-.small-column-experiences h2{
+.small-column-titles h2{
     font-family: 'Playfair Display', serif;
     font-size: 24px;
+    margin-top: 40px;
 }
 
-.small-column-experiences .line {
+.experience {
     border-color: #4200FF;
+}
+
+.graduate {
+    border-color: #FFC700;
 }
 
 .small-column img {
